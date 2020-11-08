@@ -1,0 +1,36 @@
+h1{
+        color: darkgreen;
+        font-family: Georgia;
+        text-align: center;
+}
+
+#ddi{
+    font-family: Georgia;
+    text-align: center;
+}
+.ymal {
+    text-transform: uppercase;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+
+a:hover {
+    text-decoration: underline;
+}    
+
+img {
+    padding-bottom: 1%;
+    padding-top: 1%;
+    padding-right: 1%;
+    padding-left: .5%;
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+
+.parent > span {
+   font-style: italic;
+}

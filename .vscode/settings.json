@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.preferredHighContrastColorTheme": "Deepdark Material Theme | Full Black Version",
+    "workbench.preferredLightColorTheme": "Deepdark Material Theme | Full Black Version",
+    "workbench.preferredDarkColorTheme": "Deepdark Material Theme | Full Black Version",
+    "workbench.iconTheme": "vscode-great-icons",
+    "editor.fontFamily": "static/Exo-Regular.ttf"
+}
