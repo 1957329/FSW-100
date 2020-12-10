@@ -1,0 +1,126 @@
+#b1 {
+    display: block;
+    float: center;
+    column-gap: 10px;
+    background-color: darkgrey;
+    height: 10px;
+    width: 10px;
+    margin: 10px;
+    padding: 10px;
+   
+
+}
+#b1:hover  {
+   background-color:  #0a0101;
+   width: 20px;
+}
+
+#b2 {
+  display: block;
+  float: center;
+  column-gap: 10px;
+  background-color: darkgrey;
+  height: 10px;
+  width: 10px;
+  margin: 10px;
+  padding: 10px;
+  transition-property: background-color;
+  transition-timing-function: 1s;
+
+
+}
+
+#b2:hover {
+background-color: teal;
+border:black;
+border-style: solid;
+}
+
+#b3 {
+  display: block;
+  float: center;
+  column-gap: 10px;
+  background-color: darkgrey;
+  height: 10px;
+  width: 10px;
+  margin: 10px;
+  padding: 10px;
+ 
+
+
+}
+
+
+#b3:hover {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  font-size: 30px;
+}
+#b4 {
+  display: block;
+  float: center;
+  column-gap: 10px;
+  background-color: darkgrey;
+  height: 10px;
+  width: 10px;
+  margin: 10px;
+  padding: 10px;;
+ 
+
+
+}
+#b4:hover {
+
+  height: 100px;
+  width:200px ;
+position: relative;
+border: rgb(243, 78, 105);
+border-style: dashed;
+
+}
+#b5 {
+  display: block;
+  float: center;
+  column-gap: 10px;
+  background-color: darkgrey;
+  height: 10px;
+  width: 10px;
+  margin: 10px;
+  padding: 10px;
+  
+  
+ 
+}
+
+#b5:hover {
+  background-color: rgb(49, 122, 19);
+opacity: 0%;
+margin: 10px;
+height: 50px;
+width: 50px;
+}
+
+#b6 {
+  display: block;
+  float: center;
+  column-gap: 10px;
+  background-color: darkgrey;
+  height: 10px;
+  width: 10px;
+  margin: 10px;
+  padding: 10px;
+  transition-property: background-color;
+  transition-duration: 1s;
+  transition-timing-function: ease-out;
+  transition-delay: 100ms;
+
+}
+
+
+#b6:hover {
+  background-color: rgb(73, 73, 27);
+height: 200px;
+width: 200px;
+position: relative;  
+}
